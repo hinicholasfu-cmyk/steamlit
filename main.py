@@ -3,7 +3,7 @@ import streamlit as st
 tab1, tab2, tab3 = st.tabs(['Home', 'About', 'Contact'])
 
 with tab1:
-    st.title("Welcome to me web page!🙂🙂🙂 ")
+    st.title("Welcome to me web page! This app is new to me!🙂🙂🙂 ")
     st.header("This is my blog")
     st.subheader("This is the first post")
 
